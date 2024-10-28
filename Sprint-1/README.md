@@ -17,6 +17,4 @@ Esta é a imagem após as quatro execuções do processamento_de_vendas.sh e da 
 
 # Certificados
 
-Certificados dos cursos realizados na Sprint 1
-* [Linux para Desenvolvedores](Certificados/Linux_para_Desenvolvedores_Luan_Alcolea.jpg)
-* [Git/Github e Markdown](Certificados/Git_Github_Luan_Alcolea.jpg)
+Esta sprint não houve cursos externos para realizar.
