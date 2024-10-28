@@ -1,0 +1,32 @@
+--- Processamento de Vendas ---
+--- Criar diretorios ---
+--- Copiar arquivos e aplicar data---
+--- Gerar relatorio ---
+--- Compactando backup-dados-yyyymmdd ---
+  adding: vendas/backup/backup-dados-20241021.csv (deflated 55%)
+--- Removendo arquivos ---
+
+--- Processamento de Vendas ---
+--- Criar diretorios ---
+--- Copiar arquivos e aplicar data---
+--- Gerar relatorio ---
+--- Compactando backup-dados-yyyymmdd ---
+  adding: vendas/backup/backup-dados-20241022.csv (deflated 51%)
+--- Removendo arquivos ---
+
+--- Processamento de Vendas ---
+--- Criar diretorios ---
+--- Copiar arquivos e aplicar data---
+--- Gerar relatorio ---
+--- Compactando backup-dados-yyyymmdd ---
+  adding: vendas/backup/backup-dados-20241023.csv (deflated 52%)
+--- Removendo arquivos ---
+
+--- Processamento de Vendas ---
+--- Criar diretorios ---
+--- Copiar arquivos e aplicar data---
+--- Gerar relatorio ---
+--- Compactando backup-dados-yyyymmdd ---
+  adding: vendas/backup/backup-dados-20241024.csv (deflated 51%)
+--- Removendo arquivos ---
+

@@ -1,0 +1,74 @@
+--- Consolidador de processamento de vendas ---
+
+--- Relatorio 1 ---
+Data do sistema: 2024/10/21 17:05
+Data do primeiro registro de venda: 01/01/2023
+Data do ultimo registro de venda: 31/01/2023
+Quantidade total de itens vendidos: 66
+
+Primeiras 10 linhas do arquivo: dados_de_vendas.csv 
+id,produto,quantidade,preÃ§o,data
+1,camiseta,2,29.90,01/01/2023
+2,calÃ§a,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tÃªnis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+
+--- Relatorio 2 ---
+Data do sistema: 2024/10/22 15:27
+Data do primeiro registro de venda: 1/4/2024
+Data do ultimo registro de venda: 17/5/2024
+Quantidade total de itens vendidos: 47
+
+Primeiras 10 linhas do arquivo: dados_de_vendas.csv 
+id,produto,quantidade,preÃ§o,data
+1,jaqueta,3,120,1/4/2024
+2,blusa,4,320,2/4/2024
+3,bota,5,180,3/4/2024
+4,luva,10,25,4/4/2024
+5,corrente,15,12,5/4/2024
+6,bloco de notas,20,10,6/4/2024
+7,shorts,8,35,7/4/2024
+8,sandália,4,90,8/4/2024
+9,chapéu,12,15,9/4/2024
+
+--- Relatorio 3 ---
+Data do sistema: 2024/10/23 15:27
+Data do primeiro registro de venda: 1/6/2024
+Data do ultimo registro de venda: 20/7/2024
+Quantidade total de itens vendidos: 50
+
+Primeiras 10 linhas do arquivo: dados_de_vendas.csv 
+id,produto,quantidade,preÃ§o,data
+1,jaqueta leve,4,260,1/6/2024
+2,camiseta de manga longa,5,50,2/6/2024
+3,bota de chuva,3,110,3/6/2024
+4,luvas de inverno,8,30,4/6/2024
+5,colar,10,20,5/6/2024
+6,diário,15,15,6/6/2024
+7,calça cargo,7,60,7/6/2024
+8,sapato social,4,150,8/6/2024
+9,boné esportivo,11,12,9/6/2024
+
+--- Relatorio 4 ---
+Data do sistema: 2024/10/24 15:27
+Data do primeiro registro de venda: 1/8/2024
+Data do ultimo registro de venda: 19/9/2024
+Quantidade total de itens vendidos: 50
+
+Primeiras 10 linhas do arquivo: dados_de_vendas.csv 
+id,produto,quantidade,preÃ§o,data
+1,calça de moletom,2,250,1/8/2024
+2,camiseta estampada,5,40,2/8/2024
+3,bota de combate,4,160,3/8/2024
+4,luvas de ciclismo,6,20,4/8/2024
+5,broche,15,10,5/8/2024
+6,caderno universitário,10,12,6/8/2024
+7,jaqueta de couro,1,120,7/8/2024
+8,scarpin,3,180,8/8/2024
+9,beanie,12,15,9/8/2024
+

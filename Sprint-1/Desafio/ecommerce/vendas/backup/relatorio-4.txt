@@ -1,0 +1,18 @@
+--- Relatorio 4 ---
+Data do sistema: 2024/10/24 15:27
+Data do primeiro registro de venda: 1/8/2024
+Data do ultimo registro de venda: 19/9/2024
+Quantidade total de itens vendidos: 50
+
+Primeiras 10 linhas do arquivo: dados_de_vendas.csv 
+id,produto,quantidade,preÃ§o,data
+1,calça de moletom,2,250,1/8/2024
+2,camiseta estampada,5,40,2/8/2024
+3,bota de combate,4,160,3/8/2024
+4,luvas de ciclismo,6,20,4/8/2024
+5,broche,15,10,5/8/2024
+6,caderno universitário,10,12,6/8/2024
+7,jaqueta de couro,1,120,7/8/2024
+8,scarpin,3,180,8/8/2024
+9,beanie,12,15,9/8/2024
+

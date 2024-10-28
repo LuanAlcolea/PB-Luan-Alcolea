@@ -1,0 +1,18 @@
+--- Relatorio 3 ---
+Data do sistema: 2024/10/23 15:27
+Data do primeiro registro de venda: 1/6/2024
+Data do ultimo registro de venda: 20/7/2024
+Quantidade total de itens vendidos: 50
+
+Primeiras 10 linhas do arquivo: dados_de_vendas.csv 
+id,produto,quantidade,preÃ§o,data
+1,jaqueta leve,4,260,1/6/2024
+2,camiseta de manga longa,5,50,2/6/2024
+3,bota de chuva,3,110,3/6/2024
+4,luvas de inverno,8,30,4/6/2024
+5,colar,10,20,5/6/2024
+6,diário,15,15,6/6/2024
+7,calça cargo,7,60,7/6/2024
+8,sapato social,4,150,8/6/2024
+9,boné esportivo,11,12,9/6/2024
+
