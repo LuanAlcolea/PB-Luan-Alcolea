@@ -6,8 +6,8 @@ São 7 exercícios propostos para consultar dados do arquivo livraria.
 
 ## Dados loja
 São 9 exercícios utilizando o arquivo loja.
-![evidencia_exercicios_loja_1](../Evidências/evidencia_exercicos_loja_1.png)
-![evidencia_exercicios_loja_2](../Evidências/evidencia_exercicos_loja_2.png)
+![evidencia_exercicios_loja_1](../Evidências/evidencia_exercicios_loja_1.png)
+![evidencia_exercicios_loja_2](../Evidências/evidencia_exercicios_loja_2.png)
 
 ## Exportação de dados
 Foi extraído dados do biblioteca.sqlite para csv. A primeira etapra é extrair os 10 livros mais caros da biblioteca, utilizando o separado ";" dentro do arquivo csv. A segunda etapa é extrair as 5 editoras com mais livros publicados e usar o separador "|" no csv.
