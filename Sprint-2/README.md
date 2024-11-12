@@ -5,7 +5,7 @@ Realizei os cursos e apliquei os conhecimentos nos exercícios, após eles eu re
 # Anotações
 Esta foi a minha primeira expêriencia com a linguagem SQL e banco de dados, os exercícios propostos e o desafio conseguem entregar um bom aprendizado e fixação de conhecimento.
 # Exercícios
-Houve X exercícios utilizando o arquivo livraria e X exercícios utilizando o loja.sql, em seguida realizei o exercício de extração de dados, composto por 2 etapas, cada uma com instruções de quais dados extrair e como o arquivo csv deve ficar.
+Houve 7 exercícios utilizando o arquivo livraria e 9 exercícios utilizando o loja.sql, em seguida realizei o exercício de extração de dados, composto por 2 etapas, cada uma com instruções de quais dados extrair e como o arquivo csv deve ficar.
 # Evidências
 ## Evidência dos exercícios SQL do arquivo biblioteca e loja
 ![evidencia_exercicios_1_2](Evidências/evidencia_exercicio_1_2.png)

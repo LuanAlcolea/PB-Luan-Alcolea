@@ -1,8 +1,10 @@
 # Exercícios
 ## Dados livraria
 São 7 exercícios propostos para consultar dados do arquivo livraria.
-![evidencia_exercicios_biblioteca](../Evidências/evidencia_exercicios_biblioteca.png)
 
+<p align="center">
+  <img src="https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-2/Evid%C3%AAncias/evidencia_exercicios_biblioteca.png" alt="Exercício 1" style="max-width: 100%; height: auto;">
+</p>
 
 ## Dados loja
 São 9 exercícios utilizando o arquivo loja.
