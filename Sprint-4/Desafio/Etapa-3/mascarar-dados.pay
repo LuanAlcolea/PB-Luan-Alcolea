@@ -1,0 +1,27 @@
+import hashlib
+
+def EncriptarString():
+    palavra = input("Digite uma palavra: ")
+    mascara = hashlib.sha1(palavra.encode())
+    print(f"\nString para SHA-1: {mascara.hexdigest()}\n")
+
+print("Programa iniciado!")
+
+isRunning = True
+while isRunning:
+    try:
+        print("Digite 1 para encriptar uma palavra")
+        print("Digite 2 para sair do programa")
+        userinput = input("Escolha: ")
+        option = int(userinput)
+        if option == 1:
+            EncriptarString()
+        elif option == 2:
+            isRunning = False
+    except:
+        print("Escolha inválida")
+
+
+print("Programa encerrado!")
+
+exit()
