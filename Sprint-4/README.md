@@ -9,7 +9,7 @@ São 7 exercícios para resolver na plataforma Udemy. No desafio desenvolvemos o
 # Desafio
 O desafio proposto tem como objetivo a aplicação dos conhecimentos de Docker e Python, devemos criar imagens e gerar containers bem como desenvolver um script Python e executá-lo no modo interativo.
 # Evidências
-### Evidências de execução dos exercícios e desafio
+_Evidências de execução dos exercícios e desafio_
 *Exercício 1:*
 ![evidencia_exercicio_1](Evidências/evidencia_exercicio_1.png)
 *Exercício 2:*
