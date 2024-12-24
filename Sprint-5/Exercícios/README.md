@@ -1,5 +1,9 @@
 # Exercício
 Nesta sprint o exercício consiste em carregar arquivos html para um bucket com o objetivo de criar um site estático utilizando o serviço Amazon S3.
+
+* [Abrir site](http://sprint5exercicioluan.s3-website-us-east-1.amazonaws.com)
+
+
 ### Etapa 1: Criar o bucket
 Eu criei o bucket na minha conta e defini o nome como "".
 ![evidencia_exercicio_etapa1](/Sprint-5/Evidências/Evidencia_exercicio_etapa1.png)
