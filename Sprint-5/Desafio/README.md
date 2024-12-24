@@ -12,12 +12,12 @@ Eu escrevi primeiramente dois scripts, um para ser importado como um modulo auxi
 ### S3_lib
 O script S3_lib contém variáveis e funções auxilares para que outros scripts possam utilizar com facilidade a biblioteca boto3.
 
-* [Abrir script S3_lib.py](https://dados.gov.br/dados/conjuntos-dados/aeronaves-drones-cadastrados)
+* [Abrir script S3_lib.py](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-5/Desafio/S3_lib.py)
 
 ### Etapa-1
 No script da primeira parte, eu importo a biblioteca auxilar criada para o código e utilizo suas funções para criar o bucket e carregar o arquivo baixado.
 
-* [Abrir script Etapa-1.py](https://dados.gov.br/dados/conjuntos-dados/aeronaves-drones-cadastrados)
+* [Abrir script Etapa-1.py](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-5/Desafio/Etapa-1.py)
 
 ### Etapa-2
 No script da segunda parte, começo importando a biblioteca auxilar e realizando um pré-processamento ao arquivo baixado do bucket. O pré-processamento consiste em retirar aspas, tratar dados nulos, ajustar caracteres conflitantes e erros de encodificação.
@@ -77,7 +77,7 @@ dataframe = dataframe.with_columns([
     ])
 ```
 
-* [Abrir script Etapa-2.py](https://dados.gov.br/dados/conjuntos-dados/aeronaves-drones-cadastrados)
+* [Abrir script Etapa-2.py](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-5/Desafio/Etapa-2.py)
 
 ### Execução final do script
 Após os processamentos, o dataframe é salvo localmente e carregado para o bucket com o nome "Aeronaves-Drones-Cadastrados-Processado.csv".
