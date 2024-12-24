@@ -5,12 +5,12 @@ As ferramentas que eu utilizei nesta sprint foi a IDE VSCode e a biblioteca Pola
 # Exercícios
 Neste exercícios devemos carregar os arquivos index.html e error.html para um bucket, configura-lo corretamente para que um link publico seja gerado, possibilitando qualquer máquina pública acessa-la.
 
-* [Abrir pasta exercícios](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-5/Exercícios/)
+* [Abrir pasta exercícios](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-5/Exercícios/README.md)
 
 # Desafio
 O desafio tem como objetivo a pratica de utilização do Amazon S3. A primeira etapa é carregar a nossa base de dados para o bucket através de um script python, usando a biblioteca boto3. A segunda etapa é baixar esta base de dados e processa-la localmente, em seguida carregar o novo dataframe processado ao bucket.
 
-* [Abrir pasta desafio](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-5/Desafio/)
+* [Abrir pasta desafio](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-5/Desafio/README.md)
 
 # Evidências
 Evidências de execução do exercício e desafio.
@@ -19,7 +19,7 @@ Evidências de execução do exercício e desafio.
 ![evidencia_desafio](Evidências/Evidencia_desafio.png)![evidencia_desafio2](Evidências/Evidencia_desafio2.png)
 
 
-* [Abrir pasta evidências](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-5/Evidências/)
+* [Abrir pasta evidências](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-5/Evidências/README.md)
 
 # Certificados
 
