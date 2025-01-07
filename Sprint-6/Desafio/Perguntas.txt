@@ -1,0 +1,5 @@
+1-Quais as recorrencias de profissões incomuns de atores/atrizes;
+2-Quais são as linguagens mais incomuns dos filmes que obtiveram notas acima da média;
+3-Quais filmes que tem notas altas da qual foram as unicas atuações de atores/atrizes;
+4-Quais atores/atrizes mais participaram de filmes com notas baixas;
+5-Quais países mais produziram filmes em cada decada entre 1960 a 2010;

@@ -1,0 +1,2 @@
+docker build -t imagem_desafio_sprint6 .
+docker run -v C:/Users/Luan/Desktop/Sprint-6/Arquivos:/app/data imagem_desafio_sprint6
