@@ -38,15 +38,15 @@ order by decada, ranking;
 ## Exercício Lambda
 Neste exercício devemos criar uma função lambda que vai executar uma operação usando a biblitoteca pandas, devemos configurar um layer para que a função lambda consiga utilizar a biblioteca.
 ### Criando a função lambda
-![Criando-Lambda](../Exercícios/Exercício-AWS-lambda/Criando-Lambda.png)
+![Criando-Lambda](../Exercícios/Exercício-AWS-Lambda/Criando-Lambda.png)
 ### Construindo o código
-![](../Exercícios/Exercício-AWS-lambda/Primeira-Execução.png)
+![](../Exercícios/Exercício-AWS-Lambda/Primeira-Execução.png)
 ### Criando Layer
 Preparando imagem docker
-![](../Exercícios/Exercício-AWS-lambda/Criando-Layer.png)
+![](../Exercícios/Exercício-AWS-Lambda/Criando-Layer.png)
 Código .py para carregar os arquivos no S3
-![](../Exercícios/Exercício-AWS-lambda/Criando-Layer-Codigo.png)
+![](../Exercícios/Exercício-AWS-Lambda/Criando-Layer-Codigo.png)
 Configurando a camada no AWS Lambda
-![](../Exercícios/Exercício-AWS-lambda/Criando-Layer-3.png)
+![](../Exercícios/Exercício-AWS-Lambda/Criando-Layer-3.png)
 Execução final do exercício Lambda
-![](../Exercícios/Exercício-AWS-lambda/Resultado-Lambda.png)
+![](../Exercícios/Exercício-AWS-Lambda/Resultado-Lambda.png)
