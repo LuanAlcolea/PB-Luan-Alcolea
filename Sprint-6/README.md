@@ -44,7 +44,7 @@ Não estou conseguindo obter meu certificado de conclusão deste curso da AWS, a
 ![](Certificados/Curso-Parte-2.png)
 ![](Certificados/Curso-Parte-2_.png)
 
-* [Serveless Analytics](Certificados/Serverless-Analytics-Luan-Alcolea-.pdf)
+* [Serveless Analytics](Certificados/Serverless-Analytics-Luan-Alcolea.pdf)
 
 * [Introduction to Amazon Athena](Certificados/Introduction-to-Amazon-Athena-Luan-Alcolea.pdf)
 
