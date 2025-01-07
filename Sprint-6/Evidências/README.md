@@ -12,4 +12,3 @@
 ![](../Exercícios/Exercício-AWS-lambda/Criando-Layer-Codigo.png)
 ![](../Exercícios/Exercício-AWS-lambda/Criando-Layer-3.png)
 ![](../Exercícios/Exercício-AWS-lambda/Resultado-Lambda.png)
-## Desafio

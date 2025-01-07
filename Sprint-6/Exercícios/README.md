@@ -1,4 +1,3 @@
-# Tabela de Conteúdo
 ## Exercício Athena
 ### Preparar o bucket
 Para iniciar o exercício devemos preparar o bucket. Criei um bucket chamado "exercicio-athena-luan" e baixei e carreguei o arquivo "nomes.csv" para dentro do bucket. Criei a pasta "queries" para guardar os resultados das analises dentro do Athena.
