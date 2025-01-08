@@ -39,10 +39,7 @@ Os cursos desta sprint abordaram na prática serviços da AWS como o Athena, Glu
 ## Certificados
 * [Noções básicas de Analytics na AWS Parte 1](Certificados/Noções-básicas-de-Analytics-na-AWS-Parte-1-Luan-Alcolea.pdf)
 
-Não estou conseguindo obter meu certificado de conclusão deste curso da AWS, a baixo está prints da tela comprovando a sua conclusão.
-* Certificado não emitido pela AWS! Noções básicas de Analytics na AWS Parte 2
-![](Certificados/Curso-Parte-2.png)
-![](Certificados/Curso-Parte-2_.png)
+* [Noções básicas de Analytics na AWS Parte 2](Certificados/Noções-básicas-de-Analytics-na-AWS-Parte-2-Luan-Alcolea.pdf)
 
 * [Serveless Analytics](Certificados/Serverless-Analytics-Luan-Alcolea.pdf)
 
