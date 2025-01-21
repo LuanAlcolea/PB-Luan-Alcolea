@@ -22,7 +22,7 @@ Neste tópico contém as evidências de execução dos exercícios e desafio da 
 ### Evidências de execução do desafio
 * Script dentro do lambda
 ![](Evidências/Evidencia_execução.png)
-* Imagem do arquivo gerado pelo script
+* O arquivo JSON gerado pelo script dentro do bucket S3
 ![](Evidências/Evidencia_arquivo.png)
 ### Evidências de execução do exercício Spark
 * Iniciando o pyspark dentro do container criado a partir da imagem "jupyter/all-spark-notebook"

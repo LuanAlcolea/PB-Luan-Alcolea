@@ -1,6 +1,6 @@
 # Desafio da Sprint 7
 ## Resumo
-O desafio desta sprint consiste em buscar dados da API TMDB para enriquecer o nosso banco de dados da qual esta armazenado no AWS S3, os dados devem ser armazenados no formato JSON e deve conter registros que complementam os registros dos arquivos "movies.csv" e "series.csv". O script deve ser executado dentro do AWS Lambda e deve guardar o resultado na zona RAW do nosso bucket do desafio final, o script deve gerar arquivos JSON com no máximo 100 registros de dados, se ultrapassar este número o script deve criar outro JSON. Esta entrega representa a segunda etapa do desafio final.
+O desafio desta sprint consiste em buscar dados da API TMDB para enriquecer o nosso banco de dados da qual esta armazenado no AWS S3, os dados devem ser armazenados no formato JSON e deve conter registros que complementam os registros dos arquivos "movies.csv" e "series.csv". O script deve ser executado dentro do AWS Lambda e deve guardar o resultado na camada RAW do nosso bucket do desafio final, o script deve gerar arquivos JSON com no máximo 100 registros de dados, se ultrapassar este número o script deve criar outro JSON. Esta entrega representa a segunda etapa do desafio final.
 
 * [Acessar script do desafio](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-7/Desafio/Script_desafio.py)
 
@@ -39,7 +39,7 @@ Após tudo configurado, hora de executar o script
 ![Execução](../Evidências/Evidencia_execução.png)
 
 ### Entrega do desafio
-Após a execução do script, um novo arquivo JSON foi criado na zona RAW do meu bucket, este arquivo será utilizado em sprints posteriores e está nesta localização para a organização de todo o processo. Esta é a segunda entrega do desafio final.
+Após a execução do script, um novo arquivo JSON foi criado na camada RAW do meu bucket, este arquivo será utilizado em sprints posteriores e está nesta localização para a organização de todo o processo. Esta é a segunda entrega do desafio final.
 
 * Resultado da execução: arquivo gerado no AWS S3
 ![Resultado](../Evidências/Evidencia_arquivo.png)
