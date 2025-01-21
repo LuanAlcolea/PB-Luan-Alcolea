@@ -1,6 +1,6 @@
 # Sprint 7
 ## Resumo
-Nesta sprint representa a segunda entrega do desafio final, nesta etapa consiste em extrair dados da API TMDB ou da API IMDB para enriquecer a quantidade de dados dispostos para ser utilizado nas próximos etapas do desafio. Também realizamos os exercícios propostos da qual utilizam os serviços da AWS, utilizaremos o pyspark juntamente com o docker para a realização do exercício de pyspark, também foi nesta sprint que tivemos contato com a API TMDB da qual usamos para extrair os dados necessários.
+Esta sprint representa a segunda entrega do desafio final, nesta etapa consiste em extrair dados da API TMDB para enriquecer a quantidade de dados dispostos para ser utilizado nas próximas etapas do desafio final. Também realizamos os exercícios propostos da qual utilizam os serviços da AWS, outros exercícios das quais usam a ferramenta docker para executar comando pyspark dentro de um container. Foi nesta sprint que tivemos contato com a API TMDB da qual usamos para extrair os dados necessários.
 
 Para realizar as extrações de dados na API TMDB eu reformulei as minhas perguntas para que possam gerar insights melhores e que eu possa extraír dados relevantes da API. Primeiramente eu criei o script dentro do VSCode para depois adapta-lo ao AWS Lambda.
 
@@ -10,7 +10,7 @@ Nesta sprint realizamos 3 exercícios diferentes para a fixação de conteúdo s
 * [Acessar exercícios](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-7/Exercícios/README.md)
 
 ## Desafio
-Neste desafio fizemos a extração de dados da API TMDB para dentro de nosso Bucket na camada RAW do AWS S3. Esta etapa representa a segunda entrega do desafio final da qual vamos aumentar a quantidade de dados dispostos a nós para responder as questões criadas por nós mesmos.
+Neste desafio fizemos a extração de dados da API TMDB para dentro de nosso Bucket na camada RAW do AWS S3. Esta etapa representa a segunda entrega do desafio final da qual vamos aumentar a quantidade de dados dispostos a nós para responder as questões criadas por nós mesmos, no README do desafio está apresentado as perguntas reformuladas.
 
 * [Acessar desafio](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-7/Desafio/README.md)
 
