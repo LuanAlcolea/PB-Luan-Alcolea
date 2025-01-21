@@ -1,5 +1,5 @@
 # Exercícios
-Este README contém as evidências de execução dos exercícios propostos na sprint.
+Este README contém a explicação e passo a passo da execução dos exercícios propostos nesta sprint.
 ## Exercício Apache-Spark: Contador de palavras
 Devemos usar o pyspark para contar a quantidade de palavras contidas em nosso README de apresentação do repositório do PB, para isso vamos usar uma imagem docker já existente chamada "jupyter/all-spark-notebook" da qual contém o pyspark já instalado. Vamos criar o container da imagem e dentro dele baixar o README.md e realizar os comandos necessários para contar as palavras contida no arquivo. A baixo segue o passo a passo da realização do exercício Apache-Spark.
 
