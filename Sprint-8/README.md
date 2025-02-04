@@ -1,8 +1,8 @@
 # Sprint 8
 ## Resumo
-O objetivo desta sprint é realizar a etapa de Extract Load and Transform (ETL) dos arquivos de dados presentes na camada Raw para a camada Trusted, em que os arquivos se encontrarão limpos e confiáveis. Vamos converter os arquivos de diversos formatos para um único formato de arquivo chamado Parquet. A ferramenta que utilizaremos é o Apache Spark para a extração, processamento e conversão de dados, o serviço que utilizaremos é o AWS Glue para a execução do desafio.
+O objetivo desta sprint é realizar a etapa de transformação dos arquivos de dados presentes na camada Raw para a camada Trusted, em que os arquivos se encontrarão limpos e confiáveis. Vamos converter os arquivos de diversos formatos para um único formato de arquivo chamado Parquet. A ferramenta que utilizaremos é o Apache Spark para a extração, processamento e conversão de dados. O serviço que utilizaremos é o AWS Glue para a execução do desafio.
 
-Vamos criar dois Jobs no AWS Glue, um para transformar os arquivos de origem da API TMDB e outro para transformar os arquivos de origiem local. Após a conversão dos arquivos e guarda-los em seus respectivos diretorios dentro do AWS S3, devemos criar Crawlers e executar uma breve consulta no AWS Athena usando o código automatico do serviço com o intuito de verificar os dados presentes nos arquivos Parquet.
+Vamos criar dois Jobs no AWS Glue, um para transformar os arquivos de origem da API TMDB e outro para transformar os arquivos de origem local. Após a conversão dos arquivos e guarda-los em seus respectivos diretórios dentro do AWS S3, devemos criar Crawlers e executar uma breve consulta no AWS Athena usando o código automatico do serviço com o intuito de verificar os dados presentes nos arquivos Parquet.
 
 * Abaixo segue um exemplo de como eu armazenei os arquivos processados oriundos da API TMDB:
 
@@ -10,7 +10,7 @@ Vamos criar dois Jobs no AWS Glue, um para transformar os arquivos de origem da 
 data-lake-luan/Trusted/TMDB/Parquet/Movies/Year/Month/Day movies_details_parquet/
 ```
 
-* Para o armazenamento dos arquivos de origem local os diretorios foi dispostos da seguinte forma:
+* Para o armazenamento dos arquivos de origem local os diretórios foi dispostos da seguinte forma:
 
 ```
 movies: data-lake-luan/Trusted/Local/Parquet/Movies/
@@ -38,24 +38,31 @@ O objetivo do desafio é processar os dados da camada raw para a camada trusted,
 ## Evidências de execução
 Após todos os códigos serem executados foram extraídos através de capturas de tela os resultados e logs gerados pelos mesmos, abaixo está capturas de telas contendo logs de execução, bem como fragmentos de arquivos gerados e de código desenvolvido.
 ### Exercício: Gerador de nomes aleatorios
-* Logs de execução do primeiro exercício.
+### Logs de execução do primeiro exercício.
+* Capturas de tela do script.
 ![](/Sprint-8/Evidências/ex_1_log_1.png)
 ![](/Sprint-8/Evidências/ex_1_log_2.png)
-* Captura de tela de um pequeno pedaço do arquivo "nomes_aleatorios.txt"
+### Captura de tela de um pequeno pedaço do arquivo "nomes_aleatorios.txt"
+* Visão de um pedaço do arquivo movies_details.json.
 ![](/Sprint-8/Evidências/ex_1_ps_6.png)
 
 ### Exercício: Apache Spark
-* Este exercício eu optei por desenvolver e executar no google colab.
+### Fragmento do script de "Apache Spark".
+* Script "Apache Spark"
 ![](/Sprint-8/Evidências/ex_2_cd_1.png)
 ![](/Sprint-8/Evidências/ex_2_cd_2.png)
+### Log de execução do script
+* Log de execução do script "Apache Spark"
 ![](/Sprint-8/Evidências/ex_2_log_4.png)
-![](/Sprint-8/Evidências/ex_2_log_5.png)
 ### Evidência do desafio
+### Logs de execução dos scripts no AWS GLUE
 * Logs de execução do script no AWS Glue
 ![](/Sprint-8/Evidências/de_log_1.png)
 ![](/Sprint-8/Evidências/de_log_2.png)
+### Arquivos gerados pelos scripts
 * Arquivos parquet gerados e armazenados no AWS S3
 ![](/Sprint-8/Evidências/de_bk_1.png)
+### Resultado da consulta no AWS Athena de um dos Crawlers
 * Um dos crawlers executado no AWS Athena
 ![](/Sprint-8/Evidências/de_cw_1.png)
 ## Cursos externos
