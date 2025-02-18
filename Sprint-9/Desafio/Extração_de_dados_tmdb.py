@@ -99,7 +99,7 @@ def lambda_handler(event, context):
         movie_name = movie["title"]
         release_date = movie.get("release_date", "")
 
-        # Buscar detalhes e créditos do filme em paralelo
+        # Buscar detalhes e créditos do filme
         movie_details, credits_data = GetMovieData(movie_id)
         
         if not movie_details:
@@ -162,7 +162,7 @@ def lambda_handler(event, context):
             print(f"Novo JSON {current_json} salvo em {local_path}")
             success_movies = []
 
-    # Salvar último lote restante
+    # Salvar arquivo
     if success_movies:
         current_json += 1
         local_path = f'/tmp/tmdb_data_{current_json}.json'
