@@ -1,5 +1,5 @@
 # Resumo
-O objetivo desta sprint é preparar os dados que serão utilizados na construção do dashboard, vamos desenvolver um script que vai filtrar os dados do data lake e armazena-los de forma correta para futuras consultas. Esta sprint é uma oportunidade para aprimorar o planejamento da entrega final, desde as questões que serão utilizadas, até como elas serão dispostas no dashboard.
+O objetivo desta sprint é preparar os dados que serão utilizados na construção do dashboard, vamos desenvolver um script que vai filtrar os dados do data lake e armazená-los de forma correta para futuras consultas. Esta sprint é uma oportunidade para aprimorar o planejamento da entrega final, desde as questões que serão utilizadas, até como elas serão dispostas no dashboard.
 O primeiro passo do desafio é desenvolver a modelagem multidimensional dos dados que estarão presentes na camada refined, neste ponto as questões que serão respondidas no dashboard devem estar claras e bem elaboradas. Após a conclusão da modelagem dos dados vamos construir o script do desafio.
 
 # Desafio proposto
