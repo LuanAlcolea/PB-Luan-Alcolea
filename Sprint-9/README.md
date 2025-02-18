@@ -1,14 +1,14 @@
 # Resumo
-O objetivo desta sprint é preparar o caminho final para a construção do dashboard, vamos planejar como os dados ficarão dispostos no banco de dados e quais são os dados que vamos utilizar. Primeiramente vamos criar a modelagem de dados multidimensional, através dessa modelagem vamos desenvolver um script que vai ler os dados da camada trusted e vai separa-los em tabelas correspondentes a modelagem para a camada refined. Neste ponto os dados estarão prontos para serem utilizados no dashboard. Esta etapa representa a quarta entrega do desafio final.
+O objetivo desta sprint é preparar os dados que serão utilizados na construção do dashboard, vamos desenvolver um script que vai filtrar os dados do data lake e armazena-los de forma correta para futuras consultas. Esta sprint é uma oportunidade para aprimorar o planejamento da entrega final, desde as questões que serão utilizadas, até como elas serão dispostas no dashboard.
+O primeiro passo do desafio é desenvolver a modelagem multidimensional dos dados que estarão presentes na camada refined, neste ponto as questões que serão respondidas no dashboard devem estar claras e bem elaboradas. Após a conclusão da modelagem dos dados vamos construir o script do desafio.
 
 # Desafio proposto
-### Resumo
-Para começar o desafio eu realizei uma outra analise sobre como eu vou entregar o desafio final, então eu tomei a decisão de buscar mais dados da API TMDB para seguir corretamente a minha modelagem de dados. As minhas perguntas foram renovadas nesta sprint também.
-
 * [Ir para o desafio](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-9/Desafio/README.md)
+### Reingestão de mais dados da API TMDB
+Para começar o desafio eu realizei uma outra analise sobre como eu vou entregar o desafio final, então eu tomei a decisão de buscar mais dados da API TMDB para seguir corretamente a minha modelagem de dados. Eu decidi renovar as minhas perguntas para o dashboard final, eu optei por tratar de questões que envolvam filmes, atores/atrizes e diretores.
 
 ### Modelagem dos dados
-Abaixo esta a imagem da minha modelagem de dados multidimensional
+* Abaixo esta a imagem da minha modelagem de dados multidimensional
 ![](/Sprint-9/Evidências/Modelo_Multidimensional.png)
 
 ### Questões preparadas
@@ -25,11 +25,12 @@ As minhas perguntas tem como objetivo extraír insights relevantes ao analisar d
 ```
 ### A construção do script do desafio
 Após as reingestões e processamento de dados eu escrevi o script para trazer os dados da camada trusted para a camada refined, o script extrai os dados para a construção das tabelas necessárias de dados de origem local, que representa os arquivos no formato "csv", e de origem da API TMDB, que representa o formato "json".
+O script desenvolvido no AWS Glue acessa os dados que estão presentes na camada trusted e utilizando o PyPSark vai filtrar e realizar junções de dados para a criação de tabelas de dados, essas tabelas são armazenadas na camada refined. A camada refined contém os dados filtrados, confiáveis e prontos para serem utilizados.
 
 # Evidências de execução
-Esta parte da documentação demonstra os resultados da execução dos scripts produzidos nesta sprint.
-
 *  [Ir para as evidências](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-9/Evidências/README.md)
+
+Esta parte da documentação demonstra os resultados da execução dos scripts produzidos nesta sprint.
 
 * Imagem do AWS S3 após a reingestão dos dados
 ![](/Sprint-9/Evidências/ev_reingestao_s3.png)

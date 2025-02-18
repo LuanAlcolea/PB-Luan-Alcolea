@@ -6,7 +6,7 @@ Nesta etapa vamos processar os dados da camada Trusted e move-las corretamente p
 O meu objetivo é preparar os dados para a construção do meu dashboard, que terá como objetivo analisar dados sobre atores, produtores e filmes, e suas diversas relações envolvendo multiplos dados. Contudo eu preciso organizar os dados presentes no data lake para que haja dados o suficiente para as futuras analises, por este motivo eu realize reingestão dos dados.
 
 ## Criação da modelagem de dados
-Eu desenhei a modelagem de dados usando a ferramenta "draw.io" no navegador. Abaixo segue a imagem da modelagem multidimensional desenvolvida.
+Eu desenhei a modelagem de dados usando a ferramenta "draw.io" no navegador. Abaixo segue a imagem da modelagem multidimensional.
 ![](/Sprint-9/Evidências/Modelo_Multidimensional.png)
 
 ### Explicação da construção do modelo
