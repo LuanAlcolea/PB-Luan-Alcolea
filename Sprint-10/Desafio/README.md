@@ -158,4 +158,6 @@ Após a construção de todos os gráficos, eu inseri uma imagem no início do d
 Após todas as etapas do desafio final ter sido concluídas, o resultado é este dashboard desenvolvido usando os serviços da AWS e afins.
 
 * [Acessar o dashboard PDF](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-10/Desafio/Dashboard_final_Luan_Alcolea.pdf)
+
+
 ![](/Sprint-10/Evidências/Dashboard_img.png)
