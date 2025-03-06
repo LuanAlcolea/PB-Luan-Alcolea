@@ -58,7 +58,7 @@ Após as execução do script, alguns arquivos JSON foram criados e armazenados 
 
 ![](/Sprint-10/Evidências/Novo_json.png)
 
-* [Acessar script revisado da sprint 7](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-10/Desafio/Script/Script_Lambda_Sprint_7.py)
+* [Acessar script revisado da sprint 7](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-10/Desafio/Scripts/Script_Lambda_Sprint_7.py)
 
 ## Etapa 3 (Sprint 8)
 A terceira etapa do desafio é processar os arquivos previamentes carregados, limpandos seus dados e convertendo eles para um formato único de arquivo chamado "Parquet".
@@ -113,7 +113,7 @@ A quarta etapa do desafio consiste em desenvolver a modelagem dos dados multidim
 #### Preparação dos conjunto de dados
 * Antes de iniciar a construção do dashboard, eu desenvolvi oito views no AWS Athena que vai auxíliar na construção da maioria dos gráficos. Para cada view criada, foi criado um conjunto de dados no Quicksight, e carregados na analise final.
 
-* [Acessar as consultas desenvolvidas para cada views](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-10/Desafio/Script/Views_Athena.md)
+* [Acessar as consultas desenvolvidas para cada views](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-10/Desafio/Scripts/Views_Athena.md)
 
 #### Construção do dashboard
 Durante a criação dos conjuntos de dados, houve um erro de permissão que a AWS mostrou em tela, para resolver este problema eu tive que ir no AWS IAM e adicionar novas politicas de permissões ao meu usuário.
@@ -157,5 +157,5 @@ Após a construção de todos os gráficos, eu inseri uma imagem no início do d
 ### Resultado final
 Após todas as etapas do desafio final ter sido concluídas, o resultado é este dashboard desenvolvido usando os serviços da AWS e afins.
 
-* [Acessar o dashboard PDF](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-10/Desafio/Dashboard_final_Luan_Alcolea.pdf)
+* [Acessar o dashboard PDF](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-10/Desafio/Dashboard_final_Luan_Alcolea.pdf)
 ![](/Sprint-10/Evidências/Dashboard_img.png)

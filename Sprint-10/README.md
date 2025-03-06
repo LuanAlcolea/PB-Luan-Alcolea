@@ -2,7 +2,7 @@
 ## Resumo da sprint
 Está sprint é a ultima do programa de bolsas da trilha de Data & AL da qual vamos encerrar o programa com a entrega do desafio final. A entrega final consiste em desenvolver um dashboard no AWS Quicksight utilizando os dados que preparamos ao longo das sprints anteriores, devemos utilizar o AWS Glue Data Catalog para gerar as tabelas que serão utilizadas nas consultas no AWS Athena. A construção do dashboard envolve as etapas de planejamento e preparação dos dados, devemos começar definindo o que queremos representar em nosso dashboard, com isso definido devemos extraír, processar e preparar os dados no data lake a serem utilizados pelo AWS Quicksight.
 
-A entrega deste desafio final é realizada em um vídeo de 12 a 15 minutos da qual vai abordar tudo sobre o desafio final, desde as implementações dos scripts até as mais diversas dificuldades encontradas. Esta documentação conterá todas as etapas que eu vivenciei para alcançar o resultado final do desafio, desde as primeiras implementações, até as ultimas mudanças bruscas nos scripts e da analise final.
+A entrega deste desafio final é realizada em um vídeo de 12 a 15 minutos da qual vai abordar tudo sobre o desafio final, desde as implementações dos scripts até as mais diversas dificuldades encontradas. Esta documentação conterá todas as etapas que eu passei para alcançar o resultado final do desafio, desde as primeiras implementações, até as ultimas mudanças bruscas nos scripts e da analise final.
 
 ## Resumo do desafio final
 Para iniciar o desafio devemos criar um Bucket no AWS S3, que será utilizado como o nosso data-lake, o primeiro passo a ser executado é trazer os dados sem tratamentos de duas origens diferentes. 
@@ -23,7 +23,7 @@ Antes de iniciar o desafio, eu reorganizei os dados do data lake, ajustei os scr
 
 O objetivo do meu dashboard é extraír insights importantes utilizando como base os dados de filmes produzidos, atores que participaram e diretores que direcionaram os filmes. Com os dados preparados, iniciei o desenvolvimento do dashboard no AWS Quicksight. Para auxiliar nos dados dispostos nos gráficos eu desenvolvi Views no AWS Athena, ao todo foram oito views desenvolvidas, cada uma para responder uma questão preparada. Eu inclui gráficos de indicadores de KPIs, estes eu optei por utilizar os dados do conjunto de dados não oriundos de views do Athena.
 
-* [Acessar desafio](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-10/Desafio/README.MD)
+* [Acessar desafio](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-10/Desafio/README.md)
 
 ## Evidências
 Esta parte deste documento contém evidências de execução do desafio final.
@@ -47,7 +47,7 @@ Esta parte deste documento contém evidências de execução do desafio final.
 ![](/Sprint-10/Evidências/Permissões.png)
 
 
-* [Acessar evidências](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-10/Evidências/README.MD)
+* [Acessar evidências](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-10/Evidências/README.md)
 
 ## Informações afins
 Nesta sprint houve um curso que foi realizado na plataforma Udemy, bem como um breve link que explica como desenvolver um dashboard de forma eficiênte. Há também materiais opcionais, neste caso é o AWS Quicksight lab presente nas explicações da entrega final da sprint 10.
