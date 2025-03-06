@@ -18,10 +18,6 @@ Banco de dados e as tabelas no AWS Glue Data Catalog
 
 ![](/Sprint-10/Evidências/Database.png)
 
-Visão dos scripts revisados para o desafio final
-
-[](/Sprint-10/Evidências/Visão_novos_script_glue.png)
-
 Politica de permissões necessárias para o desenvolvimento do desafio final
 
 ![](/Sprint-10/Evidências/Permissões.png)
