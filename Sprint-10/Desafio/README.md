@@ -75,7 +75,7 @@ Será desenvolvido dois scripts python que será executado no AWS Glue será des
 
 Após as execuções os arquivos convertidos e limpos são persistidos na camada Trusted.
 
-* [Acessar script revisado da sprint 8](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-10/Desafio/Script/Script_Glue_Sprint_8.py)
+* [Acessar script revisado da sprint 8](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-10/Desafio/Script/Script_Glue_Sprint_8.py)
 
 ## Etapa 4 (Sprint 9)
 A quarta etapa do desafio consiste em desenvolver a modelagem dos dados multidimensional e refinar os dados. Vamos criar um script que vai criar as tabelas de dados, os dados são extraídos dos parquets gerados na etapa anterior.
@@ -88,7 +88,7 @@ A quarta etapa do desafio consiste em desenvolver a modelagem dos dados multidim
 
 * Após os dados prontos na camada refined, eu criei um banco de dados no AWS Glue, criei um Crawler e executei, eu verifiquei a integridade dos dados presentes nas tabelas da refined utilizando o AWS Athena.
 
-* [Acessar script revisado da sprint 9](https://github.com/LuanAlcolea/PB-Luan-Alcolea/tree/main/Sprint-10/Desafio/Script/Script_Glue_Sprint_9.py)
+* [Acessar script revisado da sprint 9](https://github.com/LuanAlcolea/PB-Luan-Alcolea/blob/main/Sprint-10/Desafio/Script/Script_Glue_Sprint_9.py)
 
 ## Etapa 5 (Sprint 10)
 
