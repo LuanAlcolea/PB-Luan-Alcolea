@@ -2,8 +2,6 @@
 
 <img src="Materiais/foto.jpeg" width="320" style="display: block; margin: 0 auto; margin-bottom: 10px;">
 
-* Localização: Apiaí/SP
-
 * Instituição de ensino: Univesp
 
 * Curso: Ciência de dados
