@@ -1,6 +1,6 @@
 # Olá! Meu nome é Luan Alberto Cordeiro Alcolea
 
-<img src="Materiais/foto.jpeg" width="320" style="display: block; margin: 0 auto; margin-bottom: 10px;">
+--<img src="Materiais/foto.jpeg" width="320" style="display: block; margin: 0 auto; margin-bottom: 10px;">
 
 * Instituição de ensino: Univesp
 
